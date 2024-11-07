@@ -1,3 +1,4 @@
+// Library Customers are basically observers of the oberserver class
 public class LibraryCustomers implements LibraryObserver {
 
     @Override
